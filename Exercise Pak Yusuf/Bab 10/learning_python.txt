@@ -1,0 +1,4 @@
+Di Python kamu bisa menyimpan data di dalam variabel.
+Di Python kamu bisa membuat list dan memprosesnya dengan loop.
+Di Python kamu bisa mengambil keputusan dengan if-elif-else.
+Di Python kamu bisa membuat fungsi dan class sendiri.
